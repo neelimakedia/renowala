@@ -1,0 +1,18 @@
+S.No,Categoryname,Root Category
+1,Service Providers,Default Category
+2,Interior Designers,Service Providers
+3,Home Interiors,Interior Designers
+4,Baby & Kids,Home Interiors
+5,Basement,Home Interiors
+6,Bathroom,Home Interiors
+7,Bedroom,Home Interiors
+8,Dining,Home Interiors
+9,Entry,Home Interiors
+10,Exterior,Home Interiors
+11,Garage & Shed,Home Interiors
+12,Garden Landscapers,Home Interiors
+13,Commercial Interiors,Interior Designers
+14,Airports,Commercial Interiors
+15,Hospitals,Commercial Interiors
+16,Hotels,Commercial Interiors
+17,Malls,Commercial Interiors
